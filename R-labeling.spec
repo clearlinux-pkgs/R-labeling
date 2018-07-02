@@ -4,7 +4,7 @@
 #
 Name     : R-labeling
 Version  : 0.3
-Release  : 51
+Release  : 52
 URL      : http://cran.r-project.org/src/contrib/labeling_0.3.tar.gz
 Source0  : http://cran.r-project.org/src/contrib/labeling_0.3.tar.gz
 Summary  : Axis Labeling
