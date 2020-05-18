@@ -1,13 +1,2 @@
 # This file contains recursive sources that require this package
-R-dendextend
-R-emmeans
-R-ggplot2
-R-ggridges
-R-gridExtra
-R-princurve
-R-robustbase
-R-rsample
-R-rstan
 R-scales
-R-vcdExtra
-R-viridis
